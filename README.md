@@ -85,18 +85,18 @@ Or on Ubuntu:
 ## Screenshots
 input :"काळाची पावले ओळखून नेमके काय द्यावे , उत्तम कसे द्यावे हे जाणणारे ते श्रेष्ठ नाटककार होते."
 <br>
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/NER/picture/marpicture-1.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Marathi/blob/main/picture/marpicture-1.jpg?raw=true)
 <br>
 
 input :"विजय भटकर यांनी येथे केले."
 <br>
-![App Screenshot ](https://github.com/aashiqlove/code/blob/main/NER/picture/marpicture-2.jpg?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/DL-DiscoNER-Marathi/blob/main/picture/marpicture-2.jpg?raw=true)
 <br>
 
 
 input :"भटकर यांच्या हस्ते झाले."
 <br>
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/NER/picture/marpicture-3.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Marathi/blob/main/picture/marpicture-3.jpg?raw=true)
 <br>
 
 
